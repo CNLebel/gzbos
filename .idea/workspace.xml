@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="gzbos:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="282faf61-695d-4488-bbcb-5db7179ecf81" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="bos@localhost" type="e3449647:DbNodeDescriptor" />
+      </path>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="bos@localhost" type="e3449647:DbNodeDescriptor" />
+        <item name="bos" type="e3449647:DbNodeDescriptor" />
+      </path>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="bos@localhost" type="e3449647:DbNodeDescriptor" />
+        <item name="bos" type="e3449647:DbNodeDescriptor" />
+        <item name="t_user" type="e3449647:DbNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+    <option name="SCHEME" value="Project" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>logoutFun</find>
+      <find>changeTheme</find>
+      <find>修改密码</find>
+      <find>btnCancel</find>
+      <find>addSubareaWindow</find>
+      <find>associationBtn</find>
+      <find>保存</find>
+      <find>Decidedzone</find>
+    </findStrings>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="false" />
+    <option name="FILTER_DEBUG" value="false" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1SwmtQZSRTcBL86ryUFaDWkNKDu" />
+  <component name="PropertiesComponent">
+    <property name="JPA.DatabaseSchemaImportDialog" value="c5438d39-121a-4382-8e77-eb5a4ab0c981" />
+    <property name="SearchEverywhereHistoryKey" value="pro&#9;FILE&#9;file://C:/Users/10301/Desktop/gz-java01/09.SSH项目/IDEAWorkspace/gzbos/web/WEB-INF/pages/workflow/processdefinition_deploy.jsp&#10;UserAc&#9;FILE&#9;file://C:/Users/10301/Desktop/gz-java01/09.SSH项目/IDEAWorkspace/gzbos/src/com/gyf/bos/web/action/UserAction.java&#10;IFU&#9;FILE&#9;file://C:/Users/10301/Desktop/gz-java01/09.SSH项目/IDEAWorkspace/gzbos/src/com/gyf/bos/dao/IFunctionDao.java&#10;Function&#9;FILE&#9;file://C:/Users/10301/Desktop/gz-java01/09.SSH项目/IDEAWorkspace/gzbos/src/com/gyf/bos/dao/impl/FunctionDaoImpl.java&#10;staff&#9;FILE&#9;file://C:/Users/10301/Desktop/gz-java01/09.SSH项目/IDEAWorkspace/gzbos/web/WEB-INF/pages/base/staff.jsp&#10;BOSRe&#9;FILE&#9;file://C:/Users/10301/Desktop/gz-java01/09.SSH项目/IDEAWorkspace/gzbos/src/com/gyf/bos/web/realm/BOSRealm.java&#10;userli&#9;FILE&#9;file://C:/Users/10301/Desktop/gz-java01/09.SSH项目/IDEAWorkspace/gzbos/web/WEB-INF/pages/admin/userlist.jsp&#10;User.h&#9;FILE&#9;file://C:/Users/10301/Desktop/gz-java01/09.SSH项目/IDEAWorkspace/gzbos/src/com/gyf/bos/model/User.hbm.xml&#10;UserAction&#9;FILE&#9;file://C:/Users/10301/Desktop/gz-java01/09.SSH项目/IDEAWorkspace/gzbos/src/com/gyf/bos/web/action/UserAction.java&#10;User&#9;FILE&#9;file://C:/Users/10301/Desktop/gz-java01/09.SSH项目/IDEAWorkspace/gzbos/src/com/gyf/bos/model/User.java&#10;Userin&#9;FILE&#9;file://C:/Users/10301/Desktop/gz-java01/09.SSH项目/IDEAWorkspace/gzbos/web/WEB-INF/pages/admin/userinfo.jsp&#10;role.js&#9;FILE&#9;file://C:/Users/10301/Desktop/gz-java01/09.SSH项目/IDEAWorkspace/gzbos/web/WEB-INF/pages/admin/role.jsp&#10;RoleAc&#9;FILE&#9;file://C:/Users/10301/Desktop/gz-java01/09.SSH项目/IDEAWorkspace/gzbos/src/com/gyf/bos/web/action/RoleAction.java&#10;role_a&#9;FILE&#9;file://C:/Users/10301/Desktop/gz-java01/09.SSH项目/IDEAWorkspace/gzbos/web/WEB-INF/pages/admin/role_add.jsp&#10;r&#9;FILE&#9;file://C:/Users/10301/Desktop/gz-java01/09.SSH项目/IDEAWorkspace/gzbos/web/WEB-INF/pages/admin/role_add.jsp&#10;Role&#9;FILE&#9;file://C:/Users/10301/Desktop/gz-java01/09.SSH项目/IDEAWorkspace/gzbos/src/com/gyf/bos/model/Role.java&#10;Function.h&#9;FILE&#9;file://C:/Users/10301/Desktop/gz-java01/09.SSH项目/IDEAWorkspace/gzbos/src/com/gyf/bos/model/Function.hbm.xml&#10;Fun&#9;FILE&#9;file://C:/Users/10301/Desktop/gz-java01/09.SSH项目/IDEAWorkspace/gzbos/src/com/gyf/bos/model/Function.java&#10;Subarea.&#9;FILE&#9;file://C:/Users/10301/Desktop/gz-java01/09.SSH项目/IDEAWorkspace/gzbos/src/com/gyf/bos/model/Subarea.hbm.xml&#10;Sub&#9;FILE&#9;file://C:/Users/10301/Desktop/gz-java01/09.SSH项目/IDEAWorkspace/gzbos/src/com/gyf/bos/web/action/SubareaAction.java&#10;web.xml&#9;FILE&#9;file://C:/Users/10301/Desktop/gz-java01/09.SSH项目/IDEAWorkspace/gzbos/web/WEB-INF/web.xml&#10;staff.js&#9;FILE&#9;file://C:/Users/10301/Desktop/gz-java01/09.SSH项目/IDEAWorkspace/gzbos/web/WEB-INF/pages/base/staff.jsp&#10;StaffAct&#9;FILE&#9;file://C:/Users/10301/Desktop/gz-java01/09.SSH项目/IDEAWorkspace/gzbos/src/com/gyf/bos/web/action/StaffAction.java&#10;be&#9;FILE&#9;file://C:/Users/10301/Desktop/gz-java01/09.SSH项目/IDEAWorkspace/gzbos/config/beans.xml" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/process" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.test" />
+      <recent name="com.gyf.bos.web.action" />
+      <recent name="com.gyf.bos.service.impl" />
+      <recent name="com.gyf.bos.service" />
+      <recent name="com.gyf.bos.dao.impl" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.gyf.bos.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\LiTong\Learn\gzbos\src\com\gyf\bos\web\action" />
+      <recent name="F:\LiTong\Learn\gzbos\web\WEB-INF\lib" />
+      <recent name="C:\Users\10301\Desktop\gz-java01\09.SSH项目\IDEAWorkspace\gzbos\web\WEB-INF" />
+      <recent name="C:\Users\10301\Desktop\gz-java01\09.SSH项目\IDEAWorkspace\gzbos\web\WEB-INF\lib" />
+      <recent name="C:\Users\10301\Desktop\gz-java01\09.SSH项目\IDEAWorkspace\gzbos\web\WEB-INF\pages" />
+    </key>
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="" />
+      <recent name="com.gyf.bos.model" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\10301\Desktop\gz-java01\09.SSH项目\IDEAWorkspace\gzbos\config" />
+      <recent name="C:\Users\10301\Desktop\gz-java01\09.SSH项目\IDEAWorkspace\gzbos\src" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8888" />
+          <option name="urlPath" value="decidedzoneAction_findnoassociationCustomers.action" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8888" />
+          <option name="urlPath" value="regionAction_listJson.action" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 7.0.79">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PinYin4jUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gyf.bos.utils.PinYin4jUtils" />
+      <module name="gzbos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gyf.bos.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo04.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gzbos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test" />
+      <option name="MAIN_CLASS_NAME" value="com.test.Demo04" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo05.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gzbos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test" />
+      <option name="MAIN_CLASS_NAME" value="com.test.Demo05" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo05.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gzbos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test" />
+      <option name="MAIN_CLASS_NAME" value="com.test.Demo05" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo05.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gzbos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test" />
+      <option name="MAIN_CLASS_NAME" value="com.test.Demo05" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 7.0.79" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.45" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="C:\Program Files\Java\jdk1.7.0_75\jre">
+      <option name="COMMON_VM_ARGUMENTS" value="-server -XX:PermSize=128M -XX:MaxPermSize=256m -Dfile.encoding=UTF-8" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="gzbos:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_7_0_79_gzbos" />
+        <option name="HTTP_PORT" value="8090" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="6101" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="gzbos:war exploded" />
+        </option>
+        <option name="Gradle.BeforeRunTask" enabled="true" tasks="" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.PinYin4jUtils" />
+      <item itemvalue="JUnit.Demo04.test1" />
+      <item itemvalue="JUnit.Demo05.test1" />
+      <item itemvalue="JUnit.Demo05.test2" />
+      <item itemvalue="JUnit.Demo05.test3" />
+      <item itemvalue="Tomcat Server.Tomcat 7.0.79" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Demo05.test3" />
+        <item itemvalue="JUnit.Demo05.test2" />
+        <item itemvalue="JUnit.Demo05.test1" />
+        <item itemvalue="JUnit.Demo04.test1" />
+        <item itemvalue="Application.PinYin4jUtils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringBeansView">
+    <option name="showImplicitBeans" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="282faf61-695d-4488-bbcb-5db7179ecf81" name="Default" comment="" />
+      <created>1525401101587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525401101587</updated>
+      <workItem from="1525401108257" duration="3232000" />
+      <workItem from="1525415242587" duration="5669000" />
+      <workItem from="1525425874917" duration="15000" />
+      <workItem from="1525482026732" duration="5330000" />
+      <workItem from="1525489617519" duration="7829000" />
+      <workItem from="1525525716822" duration="22000" />
+      <workItem from="1525529686099" duration="30000" />
+      <workItem from="1525674073930" duration="10521000" />
+      <workItem from="1525686258223" duration="1734000" />
+      <workItem from="1525740933758" duration="13241000" />
+      <workItem from="1525770792889" duration="847000" />
+      <workItem from="1525827068464" duration="16423000" />
+      <workItem from="1525875477078" duration="12000" />
+      <workItem from="1525913224339" duration="7703000" />
+      <workItem from="1525933777036" duration="6428000" />
+      <workItem from="1525951597035" duration="75000" />
+      <workItem from="1525999583583" duration="7659000" />
+      <workItem from="1526009879845" duration="18000" />
+      <workItem from="1526010733090" duration="7357000" />
+      <workItem from="1526049083790" duration="366000" />
+      <workItem from="1526086849289" duration="7464000" />
+      <workItem from="1526095615851" duration="616000" />
+      <workItem from="1526106773942" duration="6370000" />
+      <workItem from="1526195042682" duration="192000" />
+      <workItem from="1526259027012" duration="9382000" />
+      <workItem from="1526277615690" duration="5184000" />
+      <workItem from="1526296613905" duration="38000" />
+      <workItem from="1526345351896" duration="18302000" />
+      <workItem from="1526431524267" duration="11444000" />
+      <workItem from="1526455120476" duration="5256000" />
+      <workItem from="1526469718878" duration="280000" />
+      <workItem from="1526470051123" duration="34000" />
+      <workItem from="1526518553972" duration="4314000" />
+      <workItem from="1526614285521" duration="1051000" />
+      <workItem from="1526645704809" duration="30000" />
+      <workItem from="1526690737443" duration="3359000" />
+      <workItem from="1526695015539" duration="243000" />
+      <workItem from="1526695455420" duration="307000" />
+      <workItem from="1526695810505" duration="949000" />
+      <workItem from="1526696911607" duration="30000" />
+      <workItem from="1572483248658" duration="1046000" />
+      <workItem from="1572484421692" duration="11592000" />
+      <workItem from="1572566647946" duration="2401000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/gyf/bos/web/action/NoticebillAction.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
+        <watch expression="getModel()" language="JAVA" />
+        <watch expression="getModel().getCustomerName()" language="JAVA" />
+        <watch expression="page" language="JAVA" />
+        <watch expression="getModel().getPage()" language="JAVA" />
+        <watch expression="rows" language="JAVA" />
+        <watch expression="pb.getRows()" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

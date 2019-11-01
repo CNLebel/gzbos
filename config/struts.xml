@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+        "http://struts.apache.org/dtds/struts-2.3.dtd">
+<struts>
+
+    <!-- 调试模式-->
+    <constant name="struts.devMode" value="true"></constant>
+
+    <package name="p1" extends="struts-default">
+
+        <!--配置全局的结果视图-->
+        <global-results>
+            <result name="login" type="redirect">/login.jsp</result>
+            <result name="unauthorizedUrl" type="redirect">/authorizing.jsp</result>
+        </global-results>
+
+        <!-- 抛出具体异常来到指定页面-->
+        <global-exception-mappings>
+            <exception-mapping exception="org.apache.shiro.authz.UnauthorizedException" result="unauthorizedUrl"></exception-mapping>
+        </global-exception-mappings>
+        
+        <!-- 配置jsp页面的访问规则-->
+        <action name="page_*_*" >
+            <result name="success">/WEB-INF/pages/{1}/{2}.jsp</result>
+        </action>
+
+        <!--用户模块-->
+        <action name="userAction_*" class="com.gyf.bos.web.action.UserAction" method="{1}">
+            <result name="home">/WEB-INF/pages/common/index.jsp</result>
+            <result name="loginfailure">/login.jsp</result>
+        </action>
+
+        <!--取派员模块-->
+        <action name="staffAction_*" class="com.gyf.bos.web.action.StaffAction" method="{1}">
+            <result name="success">/WEB-INF/pages/base/staff.jsp</result>
+
+        </action>
+        <!--区域模块-->
+        <action name="regionAction_*" class="com.gyf.bos.web.action.RegionAction" method="{1}">
+
+            <result name="success">/WEB-INF/pages/base/region.jsp</result>
+        </action>
+        <!--分区模块-->
+        <action name="subareaAction_*" class="com.gyf.bos.web.action.SubareaAction" method="{1}">
+            <result name="success">/WEB-INF/pages/base/subarea.jsp</result>
+        </action>
+
+        <action name="decidedzoneAction_*" class="com.gyf.bos.web.action.DecidedzoneAction" method="{1}">
+            <result name="success">/WEB-INF/pages/base/decidedzone.jsp</result>
+        </action>
+
+        <!--业务通知单-->
+        <action name="noticebillAction_*" class="com.gyf.bos.web.action.NoticebillAction" method="{1}">
+
+        </action>
+
+        <action name="workordermanageAction_*" class="com.gyf.bos.web.action.WorkordermanageAction" method="{1}">
+
+        </action>
+
+        <action name="functionAction_*" class="com.gyf.bos.web.action.FunctionAction" method="{1}">
+
+        </action>
+        <action name="roleAction_*" class="com.gyf.bos.web.action.RoleAction" method="{1}">
+            <result name="success">/WEB-INF/pages/admin/role.jsp</result>
+        </action>
+
+
+        <!--流程定义模型-->
+        <action name="processDefinitionAction_*" class="com.gyf.bos.web.action.ProcessDefinitionAction" method="{1}">
+            <result name="list">/WEB-INF/pages/workflow/processdefinition_list.jsp</result>
+            <result name="viewpng" type="stream">
+                <param name="contentType">image/png</param>
+                <param name="inputName">imgIS</param>
+            </result>
+        </action>
+
+        <!--流程实例-->
+        <action name="processInstanceAction_*" class="com.gyf.bos.web.action.ProcessInstanceAction" method="{1}">
+            <result name="list">/WEB-INF/pages/workflow/processinstance.jsp</result>
+        </action>
+
+    </package>
+</struts>
